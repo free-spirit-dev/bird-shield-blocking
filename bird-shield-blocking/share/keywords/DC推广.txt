@@ -1,0 +1,5 @@
+/\W\wTC/i
+/[#\W]BTC|[#\W]Crypto/
+/\WNFT\W/i
+/\WNFT\W/
+/\W#?(ETH|XRP)\W/
