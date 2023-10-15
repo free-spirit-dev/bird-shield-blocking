@@ -1,5 +1,2 @@
-/\W\wTC/i
-/[#\W]BTC|[#\W]Crypto/
-/\WNFT\W/i
-/\WNFT\W/
-/\W#?(ETH|XRP)\W/
+/^[^\u4e00-\u9fa5]*\W\wTC[^\u4e00-\u9fa5]*$/i
+/^[^\u4e00-\u9fa5]*\WNFT\W[^\u4e00-\u9fa5]*$/i
