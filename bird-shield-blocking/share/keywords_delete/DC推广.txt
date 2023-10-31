@@ -1,3 +1,5 @@
-/\$tip @tipcoineth/ 1698591944664
-/((\$tip|@tipcoineth) *){2,}/ 1698591944664
-/^([^\u4e00-\u9fa5]+|(binance|crypto|bitcoin)+)+$/i 1698591944664
+/\$tip @tipcoineth/ 1698777131005
+/((\$tip|@tipcoineth) *){2,}/ 1698777131005
+/^([^\u4e00-\u9fa5]+|(binance|crypto|bitcoin)+)+$/i 1698777131005
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin)+[^\u4e00-\u9fa5]*)+$/i 1698777131005
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️)+[^\u4e00-\u9fa5]*)+$/i 1698777131005
