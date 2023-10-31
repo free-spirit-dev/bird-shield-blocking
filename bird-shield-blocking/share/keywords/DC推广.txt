@@ -2,4 +2,4 @@
 /^[^\u4e00-\u9fa5]*\WNFT\W[^\u4e00-\u9fa5]*$/i
 /Port3Network Port3/
 /((\$tip|@tipcoineth)[^]*){2,}/
-/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️|)+[^\u4e00-\u9fa5]*)+$/i
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️)+[^\u4e00-\u9fa5]*)+$/i
