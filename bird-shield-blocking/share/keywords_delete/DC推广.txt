@@ -1,8 +1,8 @@
-/^[^\u4e00-\u9fa5]*\W\wTC[^\u4e00-\u9fa5]*$/i 1699754013130
-/^[^\u4e00-\u9fa5]*\WNFT\W[^\u4e00-\u9fa5]*$/i 1699754013130
-/\$tip @tipcoineth/ 1698777508480
-/((\$tip|@tipcoineth) *){2,}/ 1698777508480
-/^([^\u4e00-\u9fa5]+|(binance|crypto|bitcoin)+)+$/i 1698777508480
-/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin)+[^\u4e00-\u9fa5]*)+$/i 1698777508480
-/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️)+[^\u4e00-\u9fa5]*)+$/i 1699754013130
-/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️|)+[^\u4e00-\u9fa5]*)+$/i 1698777508480
+/^[^\u4e00-\u9fa5]*\W\wTC[^\u4e00-\u9fa5]*$/i 1700228154860
+/^[^\u4e00-\u9fa5]*\WNFT\W[^\u4e00-\u9fa5]*$/i 1700228154860
+/\$tip @tipcoineth/ 1700228154860
+/((\$tip|@tipcoineth) *){2,}/ 1700228154860
+/^([^\u4e00-\u9fa5]+|(binance|crypto|bitcoin)+)+$/i 1700228154860
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin)+[^\u4e00-\u9fa5]*)+$/i 1700228154860
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️)+[^\u4e00-\u9fa5]*)+$/i 1700228154860
+/^([^\u4e00-\u9fa5]*(binance|crypto|bitcoin|✈️|)+[^\u4e00-\u9fa5]*)+$/i 1700228154860
