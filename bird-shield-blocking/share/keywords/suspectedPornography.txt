@@ -17,16 +17,17 @@
 幼女美丽小穴
 /^Hanna\n/i
 /[女妻] 味就 来了/
+/^.*黑瓜网.*\n|hg.cool|sifang.run|heiguagua.com/
+/强力推荐很火.*事件|t.co\/Tpe6UqurNr|t.co\/pSg9AzDZpB|t.co\/9unAyPhuh/
+/((分享.*生活|主动.*有故事).*){2,}/ 1699657195847
+/((女王|人妻|蜜桃臀|女s|男m|主人)[^]*){3,}/
 /夜晚 尽情 释放 自我/
 /激情.*大胆.*取悦.*自己/
 /((真实|绝版|百T|好片|看过瘾|稀有)[^]*){3,}/
-/^.*黑瓜网.*\n|hg.cool|sifang.run|heiguagua.com/
 /^.*拳头工作室.*\n|tw.teletiaozhuan.com\/cuIxXu/
-/强力推荐很火.*事件|t.co\/Tpe6UqurNr|t.co\/pSg9AzDZpB|t.co\/9unAyPhuh/
 /^.*(海角社区|hj.cool).*\n|sifang\.run|haijiaoai1\.com|hg\.cool|黑瓜网|私房淫站排行|约炮社区/
-/((分享.*生活|主动.*有故事).*){2,}/ 1699657195847
-/((女王|人妻|蜜桃臀|女s|男m|主人)[^]*){3,}/
 /((足控|男S|少妇|玉足|妹妹)[^]*){3,}|gIKNe6wcOQ1kY2Fl/
 C595.LUVDEIT.TOP
 GIRLSSS.TOP
 /有缘[^]*性福/
+/^.*斗鱼内部资源.*\n/
