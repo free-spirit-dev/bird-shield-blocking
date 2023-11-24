@@ -2,4 +2,4 @@
 /Port3Network Port3/
 /((\$tip|@tipcoineth)[^]*){2,}/
 /最?会炒股嫖?的黄推/
-最会炒股的黄推
+/^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
