@@ -4,3 +4,4 @@
 /最?会炒股嫖?的黄推/
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
 /\s+xpet\s*$/i
+/\s+r\.?i\.?p\s*$/i
