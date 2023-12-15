@@ -23,4 +23,5 @@ aakk3949
 /((支付宝账号|充值卡|京东E卡|石化卡|搞钱|数字货币|USDT|黑.*资|资金盘)[^]*){3,}/
 /t.me\/lanvblue|t.me\/bluetui/
 mf8.xyz
+mh8.club
 https://mh8.club
