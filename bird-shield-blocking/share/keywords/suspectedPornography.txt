@@ -30,6 +30,7 @@ GIRLSSS.TOP
 /^.*(海角社区|hj.cool).*|sifang\.run|haijiaoai1\.com|hg\.cool|黑瓜网|私房淫站排行|约炮社区/
 8599q.top
 /((性瘾|m倾向|素质男|少妇)[^]*){2,}|#每日操粉/
+/^\S*市@\S+/
 haijiao.space
 t.me/QDss000000
 /QQ2238255571|t.me/sss147qwe/
@@ -38,5 +39,3 @@ jinqu.space
 k999k.cc
 moui24
 5766p.top
-/^\S*市@\S+/
-haijiao.space
