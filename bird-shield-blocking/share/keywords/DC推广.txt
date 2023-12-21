@@ -5,3 +5,4 @@
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
 /\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
 vvo888.com
+avascriptions.com
