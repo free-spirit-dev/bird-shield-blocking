@@ -9,3 +9,4 @@
 /(利兹|爱丁|新西|惠灵).*约.*炮/
 xr2.me/mzphf
 xr2.me/eBnmH
+xr2.me/DCnwq
