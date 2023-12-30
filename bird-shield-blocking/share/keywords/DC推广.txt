@@ -1,12 +1,10 @@
-/^.*[领送][美现]金】?|xn88\.(vip|com|org)/
-xr2.me/qdfCJ
 /Port3Network Port3/
 /((\$tip|@tipcoineth)[^]*){2,}/
 /最?会炒股嫖?的黄推/
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
+/^.*[领送][美现]金】?|xn88\.(vip|com|org)/
 /\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
 vvo888.com
 avascriptions.com
+xr2.me/qdfCJ
 LD77.CC
-/((比特币|灰.*产|网.*赚|偏门|灰色.*[赚挣]钱|[赚挣]钱.*副业)[^]*){3,}/
-/((支付宝账号|充值卡|京东E卡|石化卡|搞钱|数字货币|USDT|黑.*资|资金盘)[^]*){3,}/
