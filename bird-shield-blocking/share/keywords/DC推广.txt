@@ -8,4 +8,4 @@ vvo888.com
 avascriptions.com
 xr2.me/qdfCJ
 LD77.CC
-@BTC_Void
+/(@BTC_|[#$])Void/i
