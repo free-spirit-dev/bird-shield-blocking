@@ -1,10 +1,19 @@
-
-### "BirdShield" Expression Manual
-### Basic Format `Action Weight \\ Condition Expression`
-- Example: `skip1000\\blue&fi`  
-  Represents, when the conditions `is Blue V and is following` are met  
-  `skip all subsequent rules`  
-  Weight is `1000`, higher values execute first
+## 《鳥盾》Expression Handbook
+### Basic Format `Action Weight \\ Conditional Expression`
+- For example: `skip1000\\blue&fi`  
+  Represents, when the condition `is Blue V and in Following` is satisfied  
+  `Skip (skip) all subsequent rules`  
+  The weight is `1000`, the higher the value, the earlier it executes.
+- Supports logical operations: AND `&`, OR `|`, NOT `!`  
+  Supports the use of parentheses `()` to adjust the operation priority  
+  The default priority is `!` before `&` before `|`  
+  For example: `@*=City&(foc<10|cd<1w)`  
+  Nickname contains 'City' and (followers < 10 or registration date is less than 1 week)
+- Supports actions
+  1. `block` Block
+  2. `filter` Filter and manually confirm later
+  3. `mark` Mark in the text
+  4. `skip` Skip subsequent rules
 
 ### Expression Elements
 <table>
