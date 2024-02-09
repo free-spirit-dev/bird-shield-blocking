@@ -1,8 +1,13 @@
-<img alt="logo" src="assets/logo.svg">
+<img alt="logo" src="assets/logo.svg" width="128">
 
 ## 《Twitter鸟盾》封锁名单共享仓库
 
 此仓库用于发布共享数据和最终代码压缩包
+
+### 表达式手册
+- [简体中文](./doc/el-cn.md)  
+- [繁體中文](./doc/el-tw.md)  
+- [English](./doc/el-en.md)  
 
 ### 关于《Twitter鸟盾》
 
