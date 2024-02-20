@@ -26,7 +26,7 @@ t.me/good58451271314
 _13888a
 0\\foc<=1&frc<=1
 0\\foc<=50&txt=/^\s*$/
-0\\foc<=1&cd>=1y&frc<=100&!(lang*=zh)
 /自动.*推广/
 xr2.me/leevb
 10\\@*=黑客&foc<200
+0\\foc<=1&cd>=1y&frc<=10&!(lang*=zh)
