@@ -29,4 +29,4 @@ _13888a
 /自动.*推广/
 xr2.me/leevb
 10\\@*=黑客&foc<200
-0\\foc<=1&cd>=1y&frc<=100
+0\\foc<=1&cd>=1y&frc<=100&!(lang*=cn)
