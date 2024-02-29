@@ -1,4 +1,7 @@
 ## 《鸟盾》表达式手册
+### 安装
+- [Chrome市场](https://chromewebstore.google.com/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/igapbfjkbkmjcmgjmgfcegamhkfppdmg?hl=zh-CN)  
+- [Edge市场](https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/copkjadjjcbkgclndhlhdbmhdabhfmed)  
 ### 基本格式 `处理动作 权重 \\ 条件表达式`  
 - 如:`skip1000\\blue&fi`  
   代表,当满足 `是蓝V 且 在关注` 条件时  

@@ -1,4 +1,7 @@
 ## 《鳥盾》Expression Handbook
+### Installation
+- [Chrome Web Store](https://chromewebstore.google.com/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/igapbfjkbkmjcmgjmgfcegamhkfppdmg?hl=en)
+- [Edge Add-ons](https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/copkjadjjcbkgclndhlhdbmhdabhfmed)
 ### Basic Format `Action Weight \\ Conditional Expression`
 - For example: `skip1000\\blue&fi`  
   Represents, when the condition `is Blue V and in Following` is satisfied  

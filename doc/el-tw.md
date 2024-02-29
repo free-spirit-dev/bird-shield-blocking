@@ -1,4 +1,7 @@
 ## 《鳥盾》表達式手冊
+### 安裝
+- [Chrome市場](https://chromewebstore.google.com/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/igapbfjkbkmjcmgjmgfcegamhkfppdmg?hl=zh-TW)
+- [Edge市場](https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/copkjadjjcbkgclndhlhdbmhdabhfmed)
 ### 基本格式 `處理動作 權重 \\ 條件表達式`
 - 例如：`skip1000\\blue&fi`  
   代表，當滿足 `是藍V 且 在關注` 條件時  
