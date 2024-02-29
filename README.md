@@ -7,7 +7,11 @@
 ### 表达式手册
 - [简体中文](./doc/el-cn.md)  
 - [繁體中文](./doc/el-tw.md)  
-- [English](./doc/el-en.md)  
+- [English](./doc/el-en.md)
+
+### 安装
+- [Chrome市场](https://chromewebstore.google.com/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/igapbfjkbkmjcmgjmgfcegamhkfppdmg?hl=zh-CN)  
+- [Edge市场](https://microsoftedge.microsoft.com/addons/detail/%E6%8E%A8%E7%89%B9%E9%B8%9F%E7%9B%BE/copkjadjjcbkgclndhlhdbmhdabhfmed)  
 
 ### 关于《Twitter鸟盾》
 
