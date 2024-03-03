@@ -1,12 +1,10 @@
 /^.*[领送][美现]金】?|xn88\.(vip|com|org)/
-xr2.me/qdfCJ
 /(@BTC_|[#$])Void/i
 /Port3Network Port3/
 /((\$tip|@tipcoineth)[^]*){2,}/
 /最?会炒股嫖?的黄推/
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
 /\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
-vvo888.com
-avascriptions.com
-LD77.CC
 /\$aval|#asc20|#gamefi/i
+url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC
+@*=开元棋牌|url*=a503.xyz
