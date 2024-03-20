@@ -25,7 +25,7 @@
 /^.*拳头工作室.*|tw.teletiaozhuan.com\/cuIxXu/
 /^.*(海角社区|hj.cool).*|sifang\.run|haijiaoai1\.com|hg\.cool|黑瓜网|私房淫站排行|约炮社区/
 /((性瘾|m倾向|素质男|少妇)[^]*){2,}|#每日操粉/
-/^\S*市@\S+/
 /QQ2238255571|t.me\/sss147qwe/
 /((分享.*生活|主动.*有故事).*){2,}/
+/^\S*市@\S+/
 @*=女王&@=/s/i|info*=女王&info=/s/i
