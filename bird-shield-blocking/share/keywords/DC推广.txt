@@ -4,8 +4,8 @@
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
 /^.*[领送][美现]金】?|xn88\.(vip|com|org)/
 /\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
-/(@BTC_|[#$])Void/i
 /\$aval|#asc20|#gamefi/i
 url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC
 @*=开元棋牌|url*=a503.xyz
 AINN_Layer2|#AIL2
+/(@BTC_|[#$])Void/i
