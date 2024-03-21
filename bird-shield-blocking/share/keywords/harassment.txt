@@ -19,4 +19,3 @@ info*=zzz442515|info*=1307661449
 url*=mf8.xyz|url*=mh8.club
 url*=fans888.cc
 @*=手机口大赛
-url*=huaren.news&foc<10

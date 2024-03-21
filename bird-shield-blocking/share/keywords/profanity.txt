@@ -7,3 +7,6 @@
 /((殖畜|白皮猪|洋主子)[^]*){2,}/
 /李老师[^]*((捐款|捞钱|骗钱)[^]*){2,}/
 (txt*=李老师|txt*=李颖)&foc<5
+club.6parkbbs.com&foc<3&frc<3
+url*=huaren.news&foc<10
+(txt*=老灯|txt*=老燈)&foc<3&frc<3
