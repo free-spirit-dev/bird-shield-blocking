@@ -6,7 +6,8 @@
 /李老师[^]*看黄推度日/
 /((殖畜|白皮猪|洋主子)[^]*){2,}/
 /李老师[^]*((捐款|捞钱|骗钱)[^]*){2,}/
-(txt*=李老师|txt*=李颖)&foc<5
 club.6parkbbs.com&foc<3&frc<3
 url*=huaren.news&foc<10
-(txt*=老灯|txt*=老燈)&foc<3&frc<3
+foc<5&(txt*=李老师|txt*=李老師|txt*=李颖|txt*=李穎)
+foc<3&frc<3&(txt*=老灯|txt*=老燈)
+foc<5&(txt*=李&(txt*=骗|txt*=假|txt*=狗)|txt*=带路党|txt*=说明什么|txt*=虚假新闻)
