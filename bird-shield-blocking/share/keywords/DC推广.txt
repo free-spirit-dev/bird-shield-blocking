@@ -6,6 +6,5 @@
 /^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
 /\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
 /\$aval|#asc20|#gamefi/i
-url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC
-@*=开元棋牌|url*=a503.xyz
 AINN_Layer2|#AIL2
+(foc<50|cd<2y)&(url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC)

@@ -1,23 +1,15 @@
-初中乱伦
-萝莉幼齿乱伦
-幼女美丽小穴
-/[女妻] 味就 来了/
-/强力推荐很火.*事件|t.co\/Tpe6UqurNr|t.co\/pSg9AzDZpB|t.co\/9unAyPhuh/
-/^.*黑瓜网.*|hg.cool|sifang.run|heiguagua.com/
-/^.*拳头工作室.*|tw.teletiaozhuan.com\/cuIxXu/
-/^.*(海角社区|hj.cool).*|sifang\.run|haijiaoai1\.com|hg\.cool|黑瓜网|私房淫站排行|约炮社区/
-/^\S*市@\S+/
-/((分享.*生活|主动.*有故事).*){2,}/
 @*=女王&@=/s/i|info*=女王&info=/s/i
-/夜晚 尽情 释放 自我/
-/激情.*大胆.*取悦.*自己/
-/((足控|男S|少妇|玉足|妹妹)[^]*){3,}|gIKNe6wcOQ1kY2Fl/
-/有缘[^]*性福/
-/^.*斗鱼内部资源.*\n/
-/((性瘾|m倾向|素质男|少妇)[^]*){2,}|#每日操粉/
-/QQ2238255571|t.me\/sss147qwe/
 foc<10&/((真实|绝版|百T|好片|看过瘾|稀有)[^]*){3,}/
 foc<200&约&炮&(西雅图|亚特|加拿|澳大|美国|纽约|首尔|东京)
 (cd<2y|foc<200|约炮|反差|电报)&偷拍&视频
 (cd<2y|foc<20|催情|抓龙筋|放心购买)&早泄&(增大|阳痿|增粗|性冷淡|延时)
 (cd<1y|foc<10)&女S&男M
+foc<2000&幼女&美丽&小穴
+(cd<1y|foc<150|性|足交)&足控&(反差|丝袜|偷拍|足交|夫妻|少妇)
+(cd<2y|foc<1000)&有缘&性福&(关注|真诚|SM)
+(cd<2y|foc<600)&@*=黑瓜网|url*=hg.cool|url*=sifang.run|url*=heiguagua.com/
+@^=拳头工作室
+@^=海角社区|@*=hj.cool|url*=hj.cool|url*=sifang.run|url*=haijiaoai1.com
+(cd<2y|foc<1000|释放天性)&素质男&(天性|线下|刺激|做爱)
+(frc<100&foc<50|foc<10)&@*=市@
+info*=zzz442515|info*=1307661449

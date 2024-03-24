@@ -8,3 +8,5 @@ foc<100&/(互推)?.*自助下单.*(互推)?/
 10\\foc<200&@*=黑客
 foc<100&破解&黑客
 foc<5&涨粉|涨赞
+(foc<10|blue&foc<3000)&url*=fans888.cc
+(foc<20&cd<2y)&(url*=mf8.xyz|url*=mh8.club)
