@@ -1,10 +1,3 @@
-/^.*[领送][美现]金】?|xn88\.(vip|com|org)/
-/(@BTC_|[#$])Void/i
-/Port3Network Port3/
-/((\$tip|@tipcoineth)[^]*){2,}/
-/最?会炒股嫖?的黄推/
-/^.*跑分-.*\f|t.me\/mxbcpay|t.me\/kfcpf/
-/\s+x[.[^]*]?p[.[^]*]?e[.[^]*]?t\s*$/i
-/\$aval|#asc20|#gamefi/i
-AINN_Layer2|#AIL2
 (foc<50|cd<2y)&(url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC)
+(cd<2y|foc<1000)&txt=/xpet/i
+(foc<100|Crypto|cd<2y)&$tip&@tipcoineth
