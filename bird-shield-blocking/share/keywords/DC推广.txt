@@ -1,3 +1,4 @@
 (foc<50|cd<2y)&(url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC)
 (cd<2y|foc<1000)&txt=/xpet/i
 (foc<100|Crypto|cd<2y)&$tip&@tipcoineth
+foc<10&txt*=xmetacene&lang*=en
