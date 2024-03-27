@@ -1,6 +1,6 @@
 url*=huaren.news&foc<10
-foc<5&(txt*=李老师|txt*=李老師|txt*=李颖|txt*=李穎)
 foc<3&frc<3&(txt*=老灯|txt*=老燈)
 foc<5&(txt*=李&(txt*=骗|txt*=假|txt*=狗)|txt*=带路党|txt*=说明什么|txt*=虚假新闻)
 cd<1m&foc<1&frc<3
 club.6parkbbs.com&(foc<20&frc<50&cd<1y)
+foc<5&(txt*=李老师|txt*=李老師|txt*=李方鴻|txt*=李方鸿|txt*=李颖|txt*=李穎)
