@@ -2,3 +2,5 @@
 (cd<2y|foc<1000)&txt=/xpet/i
 (foc<100|Crypto|cd<2y)&$tip&@tipcoineth
 foc<10&txt*=xmetacene&lang*=en
+foc<15&frc<100&txt=/AINNLayer2|ANVM/i
+foc<500&frc<1000&txt=/Piin|Pinetwork/i
