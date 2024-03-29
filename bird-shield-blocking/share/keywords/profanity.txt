@@ -1,9 +1,9 @@
 url*=huaren.news&foc<10
 foc<5&(txt*=李&(txt*=骗|txt*=假|txt*=狗)|txt*=带路党|txt*=说明什么|txt*=虚假新闻)
 club.6parkbbs.com&(foc<20&frc<50&cd<1y)
-frc<30&foc<30&(txt*=李老師|txt*=李方鴻|txt*=李方鸿|txt*=李颖|txt*=李穎)
 foc<10&frc<10&(txt*=老燈)
 (frc<10&foc<3)&李&(汉奸|卖国)
 frc<10&foc<5&(txt*=李老师|txt*=李坏逼)
 foc<10&frc<10&(txt*=瞎逼逼|txt*=白痴|txt*=遭报应|txt*=剪辑的图也信)
 foc<5&frc<10&(txt*=老灯)
+frc<80&foc<30&(txt*=李老師|txt*=李方鴻|txt*=李方鸿|txt*=李颖|txt*=李穎)
