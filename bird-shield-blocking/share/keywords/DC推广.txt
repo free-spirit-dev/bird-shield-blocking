@@ -1,7 +1,7 @@
 (foc<50|cd<2y)&(url*=vvo888.com|url*=avascriptions.com|url*=xr2.me/qdfCJ|url*=LD77.CC)
 (cd<2y|foc<1000)&txt=/xpet/i
 (foc<100|Crypto|cd<2y)&$tip&@tipcoineth
-foc<10&txt*=xmetacene&lang*=en
 (foc<15&frc<100|lang*=en)&txt=/AINNLayer2|ANVM/i
 (foc<500&frc<1000|lang*=en)&txt=/Piin|Pinetwork/i
 @=/[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{2,}/|info=/^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{2,}$/
+foc<50&txt*=xmetacene&lang*=en
