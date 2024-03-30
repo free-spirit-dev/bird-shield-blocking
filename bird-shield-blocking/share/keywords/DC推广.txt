@@ -3,5 +3,4 @@
 (foc<100|Crypto|cd<2y)&$tip&@tipcoineth
 (foc<15&frc<100|lang*=en)&txt=/AINNLayer2|ANVM/i
 (foc<500&frc<1000|lang*=en)&txt=/Piin|Pinetwork/i
-@=/[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{2,}/|info=/^[\u0600-\u06FF\u0750-\u077F\u08A0-\u08FF]{2,}$/
 foc<50&txt*=xmetacene&lang*=en
