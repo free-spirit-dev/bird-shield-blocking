@@ -2,5 +2,4 @@
 0\\foc<0&cd>=1y&frc<=10&!(lang*=zh)
 foc<200&@*=发票&(代开|正规)
 (foc<10&cd<1y)&txt*=日給30&txt*=円
-(foc<100&cd<2y)&foc<80&txt*=东和伟哥&txt*=惊喜
 (foc<20&cd<2y)&@*=手机口大赛
