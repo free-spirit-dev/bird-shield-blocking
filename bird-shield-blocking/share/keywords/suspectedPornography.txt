@@ -17,5 +17,6 @@ info*=zzz442515|info*=1307661449
 (cd<1y&foc<50)&@=/@(小|(\W)\2)/
 @*=全国&(@*=派遣|@*=交友|@*=安排|@*=高端|@*=女团|@*=资源|@*=门槛|@*=萝莉|@*=处女|@*=上门)
 url*=8833.today|foc<10&txt=/(【\w】)+$/i
-url*=hott-girls-here.blogspot|txt*=! I&(like|need)&/se+x{2,}/i
 foc<2000&(url*=pan.xunlei|pan.xunlei)
+url*=girls
+/se+x+/i&!(/se+x{2,}/i|🔞|/follow +me/i|sexually|girl)
