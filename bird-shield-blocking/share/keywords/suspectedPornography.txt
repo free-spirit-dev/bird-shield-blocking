@@ -19,4 +19,4 @@ info*=zzz442515|info*=1307661449
 url*=8833.today|foc<10&txt=/(【\w】)+$/i
 foc<2000&(url*=pan.xunlei|pan.xunlei)
 url*=girls
-/([^a-z]s|S)e+x+/&!(/se+x{2,}/i|🔞|/follow +me/i|sexually|girl)
+/[^a-z]se+x+/i&(/se+x{2,}/i|🔞|/follow +me/i|girl)
