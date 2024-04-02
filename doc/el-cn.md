@@ -30,14 +30,14 @@
         <th>范例</th>
     </tr>
     <tr>
-        <td rowspan="8">条件类型</td>
+        <td rowspan="9">条件类型</td>
         <td rowspan="5">拦截<br/>与<br/>搜索</td>
         <td>blue</td>
         <td></td>
         <td>是否蓝V</td>
-        <td rowspan="8"></td>
-        <td rowspan="8"><code>!</code>:取反值</td>
-        <td rowspan="8"><code>!blue&!fb</code><br/>不是蓝V并且不是粉丝</td>
+        <td rowspan="9"></td>
+        <td rowspan="9"><code>!</code>:取反值</td>
+        <td rowspan="9"><code>!blue&!fb</code><br/>不是蓝V并且不是粉丝</td>
     </tr>
     <tr>
         <td>blocking</td>
@@ -60,10 +60,15 @@
         <td>粉丝</td>
     </tr>
     <tr>
-        <td rowspan="3">仅搜索</td>
+        <td rowspan="4">仅搜索</td>
         <td>private</td>
         <td></td>
         <td>未共享</td>
+    </tr>
+    <tr>
+        <td>shared</td>
+        <td>shr</td>
+        <td>已共享</td>
     </tr>
     <tr>
         <td>suspended</td>
@@ -108,12 +113,12 @@
         <td>推文含视频数</td>
     </tr>
     <tr>
-        <td rowspan="2">日期类型</td>
+        <td rowspan="4">日期类型</td>
         <td>拦截<br/>与<br/>搜索</td>
         <td>created_date</td>
         <td>cd</td>
         <td>用户注册日期</td>
-        <td rowspan="2">
+        <td rowspan="4">
 <code>2</code>:2天<br/>
 <code>1d</code>:1天<br/>
 <code>1w</code>:1周<br/>
@@ -122,7 +127,7 @@
 <code>1-5</code>:1月5日<br/>
 <code>2023-1-1</code><br/>
 </td>
-        <td rowspan="2">
+        <td rowspan="4">
 <code>&lt;</code>:在之前<br/>
 <code>&lt;=</code><br/>
 <code>&gt;</code>:在之后<br/>
@@ -132,45 +137,65 @@
         <td rowspan="2"><code>cd<1m</code><br/>注册日期小于一月</td>
     </tr>
     <tr>
-        <td>仅搜索</td>
+        <td rowspan="3">仅搜索</td>
         <td>added_date</td>
         <td>ad</td>
         <td>添加数据日期</td>
     </tr>
     <tr>
-        <td rowspan="2">时间类型</td>
+        <td>last_download_date</td>
+        <td>dd</td>
+        <td>最后下载新数据日期</td>
+    </tr>
+    <tr>
+        <td>updated_date</td>
+        <td>ud</td>
+        <td>最后修改日期</td>
+    </tr>
+    <tr>
+        <td rowspan="4">时间类型</td>
         <td>拦截<br/>与<br/>搜索</td>
         <td>created_time</td>
         <td>ct</td>
         <td>用户注册时间</td>
-        <td rowspan="2">
+        <td rowspan="4">
 <code>2</code>:2小时<br/>
 <code>1d</code>:1天<br/>
 </td>
-        <td rowspan="2">
+        <td rowspan="4">
 <code>&lt;</code>:在之前<br/>
 <code>&gt;</code>:在之后<br/>
 </td>
-        <td rowspan="2"><code>ad<8</code><br/>8小时内添加的数据</td>
+        <td rowspan="4"><code>ad<8</code><br/>8小时内添加的数据</td>
     </tr>
     <tr>
-        <td>仅搜索</td>
+        <td rowspan="3">仅搜索</td>
         <td>added_time</td>
         <td>at</td>
         <td>添加数据日间</td>
     </tr>
     <tr>
-        <td rowspan="9">文本类型</td>
-        <td rowspan="8">拦截<br/>与<br/>搜索</td>
+        <td>last_download_time</td>
+        <td>dt</td>
+        <td>最后下载新数据时间</td>
+    </tr>
+    <tr>
+        <td>updated_time</td>
+        <td>ut</td>
+        <td>最后修改日间</td>
+    </tr>
+    <tr>
+        <td rowspan="11">文本类型</td>
+        <td rowspan="9">拦截<br/>与<br/>搜索</td>
         <td>name</td>
         <td>@</td>
         <td>用户名称</td>
-        <td rowspan="10">
+        <td rowspan="11">
 <code>abc</code>:任意文本<br/>
 <code>公务员</code><br/><br/>
 <code>/市/</code>:正则<br/>(仅支持<code>=</code><code>!=</code><code>≠</code>)<br/>
 </td>
-        <td rowspan="10">
+        <td rowspan="11">
 <code>=</code>:完全等同<br/>
 <code>≠</code>:不等同<br/>
 <code>!=</code>:不等同<br/>
@@ -178,11 +203,16 @@
 <code>$=</code>:以什么结束<br/>
 <code>*=</code>:包含什么<br/>
 </td>
-        <td rowspan="10">
+        <td rowspan="11">
 <code>@*=市</code><br/>用户名包含'市'<br/><br/>
 <code>lang^=zh</code><br/>推文是中文<br/><br/>
 <code>abc&xyz</code><br/>任意文本包含'abc'和'xyz'<br/><br/>
 </td>
+    </tr>
+    <tr>
+        <td>id</td>
+        <td></td>
+        <td>数字 ID,仅用在any中</td>
     </tr>
     <tr>
         <td>screen_name</td>
@@ -220,9 +250,14 @@
         <td>认证类型</td>
     </tr>
     <tr>
-        <td>仅搜索</td>
+        <td rowspan="2">仅搜索</td>
         <td>category</td>
         <td>ctg</td>
         <td>分类类别</td>
+    </tr>
+    <tr>
+        <td>matched</td>
+        <td>mtd</td>
+        <td>已匹配的规则</td>
     </tr>
 </table>
