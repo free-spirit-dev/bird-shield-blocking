@@ -21,3 +21,4 @@ foc<2000&(url*=pan.xunlei|pan.xunlei)
 url*=girls
 /[^a-z]se+x+/i&(/se+x{2,}/i|🔞|/follow +me/i|girl)
 info*=🚪&!info*=无&info=/(调教|入门|口令红包|原味|福利|槛\s\d+|线下|门槛|可看.*(脸|生活照)|加v)/i
+frc<200&foc<20&info=/^\s*$/&txt*=magnet:?xt=urn:
