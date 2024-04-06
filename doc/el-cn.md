@@ -207,6 +207,8 @@
 <code>^=</code>:以什么开始<br/>
 <code>$=</code>:以什么结束<br/>
 <code>*=</code>:包含什么<br/>
+<code>~</code>:2字段相似<br/>
+<code>=~</code>:2字段相同<br/>
 </td>
         <td rowspan="12">
 <code>@*=市</code><br/>用户名包含'市'<br/><br/>
