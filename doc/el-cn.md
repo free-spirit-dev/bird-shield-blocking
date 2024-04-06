@@ -30,14 +30,14 @@
         <th>范例</th>
     </tr>
     <tr>
-        <td rowspan="9">条件类型</td>
-        <td rowspan="5">拦截<br/>与<br/>搜索</td>
+        <td rowspan="10">条件类型</td>
+        <td rowspan="6">拦截<br/>与<br/>搜索</td>
         <td>blue</td>
         <td></td>
         <td>是否蓝V</td>
-        <td rowspan="9"></td>
-        <td rowspan="9"><code>!</code>:取反值</td>
-        <td rowspan="9"><code>!blue&!fb</code><br/>不是蓝V并且不是粉丝</td>
+        <td rowspan="10"></td>
+        <td rowspan="10"><code>!</code>:取反值</td>
+        <td rowspan="10"><code>!blue&!fb</code><br/>不是蓝V并且不是粉丝</td>
     </tr>
     <tr>
         <td>blocking</td>
@@ -58,6 +58,11 @@
         <td>followed_by</td>
         <td>fb</td>
         <td>粉丝</td>
+    </tr>
+    <tr>
+        <td>reply</td>
+        <td>rpl</td>
+        <td>是否是回复</td>
     </tr>
     <tr>
         <td rowspan="4">仅搜索</td>
@@ -185,17 +190,17 @@
         <td>最后修改日间</td>
     </tr>
     <tr>
-        <td rowspan="11">文本类型</td>
-        <td rowspan="9">拦截<br/>与<br/>搜索</td>
+        <td rowspan="12">文本类型</td>
+        <td rowspan="10">拦截<br/>与<br/>搜索</td>
         <td>name</td>
         <td>@</td>
         <td>用户名称</td>
-        <td rowspan="11">
+        <td rowspan="12">
 <code>abc</code>:任意文本<br/>
 <code>公务员</code><br/><br/>
 <code>/市/</code>:正则<br/>(仅支持<code>=</code><code>!=</code><code>≠</code>)<br/>
 </td>
-        <td rowspan="11">
+        <td rowspan="12">
 <code>=</code>:完全等同<br/>
 <code>≠</code>:不等同<br/>
 <code>!=</code>:不等同<br/>
@@ -203,7 +208,7 @@
 <code>$=</code>:以什么结束<br/>
 <code>*=</code>:包含什么<br/>
 </td>
-        <td rowspan="11">
+        <td rowspan="12">
 <code>@*=市</code><br/>用户名包含'市'<br/><br/>
 <code>lang^=zh</code><br/>推文是中文<br/><br/>
 <code>abc&xyz</code><br/>任意文本包含'abc'和'xyz'<br/><br/>
@@ -248,6 +253,11 @@
         <td>verified_type</td>
         <td>vtp</td>
         <td>认证类型</td>
+    </tr>
+    <tr>
+        <td>conversation_user_id</td>
+        <td>c.id</td>
+        <td>会话用户ID(主推文所有者)</td>
     </tr>
     <tr>
         <td rowspan="2">仅搜索</td>
