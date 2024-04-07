@@ -190,17 +190,17 @@
         <td>最后修改日间</td>
     </tr>
     <tr>
-        <td rowspan="12">文本类型</td>
-        <td rowspan="10">拦截<br/>与<br/>搜索</td>
+        <td rowspan="13">文本类型</td>
+        <td rowspan="11">拦截<br/>与<br/>搜索</td>
         <td>name</td>
         <td>@</td>
         <td>用户名称</td>
-        <td rowspan="12">
+        <td rowspan="13">
 <code>abc</code>:任意文本<br/>
 <code>公务员</code><br/><br/>
 <code>/市/</code>:正则<br/>(仅支持<code>=</code><code>!=</code><code>≠</code>)<br/>
 </td>
-        <td rowspan="12">
+        <td rowspan="13">
 <code>=</code>:完全等同<br/>
 <code>≠</code>:不等同<br/>
 <code>!=</code>:不等同<br/>
@@ -210,7 +210,7 @@
 <code>~</code>:2字段相似<br/>
 <code>=~</code>:2字段相同<br/>
 </td>
-        <td rowspan="12">
+        <td rowspan="13">
 <code>@*=市</code><br/>用户名包含'市'<br/><br/>
 <code>lang^=zh</code><br/>推文是中文<br/><br/>
 <code>abc&xyz</code><br/>任意文本包含'abc'和'xyz'<br/><br/>
@@ -260,6 +260,11 @@
         <td>conversation_user_id</td>
         <td>c.id</td>
         <td>会话用户ID(主推文所有者)</td>
+    </tr>
+    <tr>
+        <td>quoted_tweet_user_id</td>
+        <td>q.id</td>
+        <td>引用推文所有者ID</td>
     </tr>
     <tr>
         <td rowspan="2">仅搜索</td>
