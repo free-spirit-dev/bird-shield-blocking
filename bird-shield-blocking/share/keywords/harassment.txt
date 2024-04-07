@@ -4,4 +4,5 @@ foc<200&@*=发票&(代开|正规)
 (foc<10&cd<1y)&txt*=日給30&txt*=円
 (foc<20&cd<2y)&@*=手机口大赛
 (lang=/en|und/)&foc<5&frc<50&info=/^\s*$/&txt=/(Nice|Ok|yes|Good|Niubility)[\.!]*\s*$/i
-mark100\\rpl&(frc<2&foc<2&cd<1m&(info=/^\s*$/|(sn=~@|(sn~@&sn=/\d+$/))))
+mark1\\rpl&(frc<2&foc<2&cd<1m&(info=/^\s*$/|(sn=~@|(sn~@&sn=/\d+$/))))
+100\\rpl&(frc<1&foc<1&cd<1m&info=/^\s*$/&(sn=~@|(sn~@&sn=/\d+$/)))
