@@ -7,3 +7,4 @@ foc<200&@*=发票&(代开|正规)
 mark1\\rpl&(frc<2&foc<2&cd<1m&(info=/^\s*$/|(sn=~@|(sn~@&sn=/\d+$/))))
 100\\rpl&(frc<1&foc<1&cd<1m&info=/^\s*$/&(sn=~@|(sn~@&sn=/\d+$/)))
 mark1\\rpl&frc<10&foc<1&sn~@&info=/^\s*$/&txt=/^(undefined|\s*|(\s*(@\w+|https?:\/\/t\.co\/\w+)\s*)*)$/&ptc=1
+mark1\\rpl&foc<1&frc<1
