@@ -4,3 +4,7 @@
 (foc<15&frc<100|lang*=en)&txt=/AINNLayer2|ANVM/i
 (foc<500&frc<1000|lang*=en)&txt=/Piin|Pinetwork/i
 foc<50&txt*=xmetacene&lang*=en
+foc<50&lang=/en|in/&txt=/OKZOO/i
+mark200\\foc<500&txt=/OKZOO/i
+foc<200&lang=/en|in/&txt=/@Web3Go|GoDIN/i
+mark200\\foc<500&txt=/@Web3Go|GoDIN/i
