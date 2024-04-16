@@ -1,6 +1,5 @@
 0\\foc<=50&txt=/^\s*$/
 0\\foc<0&cd>=1y&frc<=10&!(lang*=zh)
-foc<200&@*=发票&(代开|正规)
 (foc<10&cd<1y)&txt*=日給30&txt*=円
 (foc<20&cd<2y)&@*=手机口大赛
 (lang=/en|und/)&foc<5&frc<50&info=/^\s*$/&txt=/(Nice|Ok|yes|Good|Niubility)[\.!]*\s*$/i
