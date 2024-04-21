@@ -8,3 +8,4 @@ foc<50&lang=/en|in/&txt=/OKZOO/i
 mark200\\foc<500&txt=/OKZOO/i
 foc<200&lang=/en|in/&txt=/@Web3Go|GoDIN/i
 mark200\\foc<500&txt=/@Web3Go|GoDIN/i
+foc<200&lang=/en|in/&txt=/wizz.*woods/i
