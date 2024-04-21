@@ -17,8 +17,8 @@ info*=zzz442515|info*=1307661449
 @*=全国&(@*=派遣|@*=交友|@*=安排|@*=高端|@*=女团|@*=资源|@*=门槛|@*=萝莉|@*=处女|@*=上门)
 url*=8833.today|foc<10&txt=/(【\w】)+$/i
 foc<2000&(url*=pan.xunlei|pan.xunlei)
-url*=girls
 /[^a-z]se+x+/i&(/se+x{2,}/i|🔞|/follow +me/i|girl)
 frc<200&foc<20&info=/^\s*$/&txt*=magnet:?xt=urn:
 mark150\\foc<50000&/生理需求|处男|一日.*女友|进入.*(生活|身体)|坐莲|单.*妈|炮友|[姐妹].*痒/
 mark150\\@=/^\.$/
+lang=/^e|ro|qme/&url*=girl
