@@ -8,3 +8,4 @@ mark1\\rpl&(frc<2&foc<2&cd<1m&(info=/^\s*$/|(sn=~@|(sn~@&sn=/\d+$/))))
 mark1\\rpl&frc<10&foc<1&sn~@&info=/^\s*$/&txt=/^(undefined|\s*|(\s*(@\w+|https?:\/\/t\.co\/\w+)\s*)*)$/&ptc=1
 mark1\\rpl&foc<1&frc<1
 mark1\\rpl&foc<30&cd<1y&@=/^\w$/
+frc<50&foc<10&(info*=各种证件|txt=/身份.*学位.*电工/&txt*=证)
