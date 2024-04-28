@@ -24,4 +24,4 @@ mark150\\@=/^\.$/
 mark200\\@=/个人|线下/&/兼职|上门|🚪|少女/
 frc<50&foc<20&@=/个人|线下|兼职/&info=/私聊|学妹|定金|🚪|少女/&@=/(.)\1$/
 mark200\\(info*=年|info*=后)&info=/仙女|阿姨|学生|妹|爱好男|体制|中铁|姐|女生|女人|检察官/
-foc<50&lang=/^e|ro|qme/&url*=girl
+foc<50&lang=/^e|ro|qme/&url=/girl|hotties/
