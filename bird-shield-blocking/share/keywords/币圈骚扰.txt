@@ -10,3 +10,4 @@ foc<200&lang=/en|in/&txt=/@Web3Go|GoDIN/i
 mark200\\foc<500&txt=/@Web3Go|GoDIN/i
 foc<200&lang=/en|in/&txt=/wizz.*woods/i
 rpl&frc<150&foc<100&txt*=信号&txt=/交易.*单击|@(off_seungwoo|Aziz_smanel|simthle|analystop|tocrabika|catwaelk)/i
+rpl&/Vote.*Heart.*beat.*Odyssey/i
